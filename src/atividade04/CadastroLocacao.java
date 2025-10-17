@@ -17,8 +17,8 @@ public class CadastroLocacao {
         Locacao locacao = new Locacao(
             101, // id
             "Confirmada", // status
-            280.0, // valorTotal
-            3, // qtdDiarias
+             // valorTotal
+            3, // qtdDiariççças
             10.0, // valorDesconto
             listaVeiculos // lista de veículos
         );
